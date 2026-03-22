@@ -1,5 +1,7 @@
 # Network Core
-Hypixel's Proxy recreation attempt in BungeeCord.
+Hypixel's Proxy recreation attempt in BungeeCord. Might not be the cleanest but works, originally my intention was
+to just see if i can recreate Hypixel's Proxy features. I am currently working on a better more optimized and cleaner
+version made in Velocity.
 
 ## Features:
 - Guilds
